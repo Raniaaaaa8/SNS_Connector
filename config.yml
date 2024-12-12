@@ -1,0 +1,13 @@
+# config.yml
+
+twitter:
+  api_key: "nrLe4bih7IdZ97wA3M5GtLG9d" #"VOTRE_API_KEY"
+  api_secret_key: "OePOdEqSY2bpLx9awDbXhig7R9S8zMdbkYOxHe05ser2nRsSUv" #"VOTRE_API_SECRET_KEY"
+  access_token: "1866954643676299264-gC5O0w3FNv335XMGku1nhicfQtCMfF" #"VOTRE_ACCESS_TOKEN"
+  access_token_secret: "XjDbMRIfGPqxWc7mi2P6petzXHIHuf0aAyCWjQAqaSA5I" #"VOTRE_ACCESS_TOKEN_SECRET"
+  bearer_token: 'AAAAAAAAAAAAAAAAAAAAAJb6xQEAAAAA5VXOUIl5sHysLPUZR%2FEH%2FPCYiJ8%3DBJZyhrbmb6GJ3EivKa5GxcBqBgGJ7vAoX6eHQeHUlyi0P5mddu'
+
+mongodb:
+  uri: "mongodb+srv://hrbouguesri:VLU04BNtqqslr807@cluster0.8powh.mongodb.net/test" #<user>:<password>
+  database_name: "social_media_db"
+  collection_name: "posts"
